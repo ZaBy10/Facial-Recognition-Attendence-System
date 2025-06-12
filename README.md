@@ -1,4 +1,4 @@
-#🧑‍🎓 Facial Recognition Attendance System using Python
+#Facial Recognition Attendance System using Python
 A Facial Recognition-based Attendance System that leverages OpenCV, face_recognition, and PyQt5 to automatically mark attendance based on facial recognition. The system provides secure, automated attendance logging for students or employees, making the attendance process seamless and accurate.  
 
 🚀 Features  
